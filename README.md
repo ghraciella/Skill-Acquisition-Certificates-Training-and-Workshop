@@ -108,7 +108,10 @@ Logistic Processes: Cargo 2000 as Case Study, University of L’Aquila, Italy.</
 <li>Ongoing Udemy Certification: Excel Financial Modeling and Business Analysis Masterclass, Udemy.</li>
 
 <p>
+<li>Ongoing Udemy Certification: SAP for Beginners course | SAP ERP with practice, Udemy.</li>
 
+<p>
+<li>Ongoing Udemy Certification: SAP Business Analytics Essential Training, Udemy.</li>
 
 
 
