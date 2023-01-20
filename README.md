@@ -34,6 +34,10 @@ Tools, Languages, Libraries: Python, Jupyter Lab, Jupyter Notebook(Ipython), Mic
 
 ### Completed
 
+<li> Jan., 2023 Forage Virtual Internship: Goldman Sachs Excel Skills for Business Virtual Experience Program, Credential ID 3xnE7zRNXGhHASNuN.</li>
+  
+<li> Jan., 2023 Forage Virtual Internship Certification: Standard Bank Data Science Virtual Experience Internship, Credential ID mYNmo5Y2nrYuuArqc.</li>
+  
 <li> Jan., 2023 Forage Virtual Internship Certification: Accenture Data Analytics and Visualization Virtual Experience, Credential ID r35jfFjvNFKWu5oFv.</li>
 
 <p>
