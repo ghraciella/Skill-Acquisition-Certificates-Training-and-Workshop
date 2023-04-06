@@ -45,6 +45,13 @@ Tools, Languages, Libraries: Python, Jupyter Lab, Jupyter Notebook(Ipython), Mic
 
 <li> Sep.-Dec. 2021 DataTrain/UBremen Research Alliance: Operator Track: Data Scientist </li>
 
+ - A preview of certificate [Data-Track-Scientist-Data-Practitioner-Python-Developer](https://drive.google.com/file/d/1TXH7kUI_xIJmN2rAJpwvqYN1Rf7Uug0R/view?usp=sharing)
+
+<img src = "https://drive.google.com/drive/u/0/folders/1-zWosJKO8nRxlT09ngMf_6L3Zfgsz2aU" />
+
+
+<br>
+
 <p>
 
 
