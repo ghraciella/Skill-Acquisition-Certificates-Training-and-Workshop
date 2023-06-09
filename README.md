@@ -103,7 +103,7 @@
 
 * (June 15,2018) Seminar: Big Data Models and Algorithms - Dimensionality Reduction, University of L’Aquila, Italy.
 
-
+<!---
 ---
 
 ### <span style="color:grey"> __Ongoing__ </span>
@@ -130,7 +130,8 @@
 * Ongoing Udemy Certification: SAP for Beginners course | SAP ERP with practice, Udemy.
 
 * Ongoing Udemy Certification: SAP Business Analytics Essential Training, Udemy.
-
+--->
+  
 ---
 ## <span style="color:grey"> __Learning Platforms__ </span>
 ---
@@ -141,6 +142,7 @@
 <li> Forage </li>
 <li> Udemy </li>
 <li> Linkedin Learning </li>
+<li> Microsoft Learn </li>  
 <li> -etc </li>
 
 
