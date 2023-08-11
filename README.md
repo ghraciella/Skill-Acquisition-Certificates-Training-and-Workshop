@@ -1,27 +1,76 @@
 # <span style="color:grey"> __Self Development, Continuous Learning and Skills Acquisition__ </span>
 
+
 ---
+
+## <span style="color:grey"> __Tech Stack : Tools, Languages, Libraries__
+
+|                      Skill               |                         Tech Stack                                                    | 
+|:----------------------------------------:|:-------------------------------------------------------------------------------------:|
+| Programming                              | Python, Pandas, Numpy,  Scikit-Learn, Anaconda, C++, Pytorch, Pytorch Lightning, OpenCV, Tensorflow, Keras ...            |
+| Visualization, Dashboards & Reporting    | Pandas, Matplotlib, Seaborn, Plotly,  Power BI, Tableau , Excel, ...        |
+| Collection, Presentation & Reporting     | Google Forms,   Google Sheets, Google Slides, ...        |
+| Databases                                | PostgreSQL, Sqlalchemy, Dbeaver , BigQuery           |
+| Version Control                          | Git, Github, Gitlab,            |
+| Organization                             | Kanban Board, Trello, Jira, Zenhub            |
+| OS - Shell                               | Linux, Unix, Windows                                           |
+| Editors (IDE)                            | VSCode, Visual Studio,  Jupyter                       |
+| Dashboards & Web Dev                     | Streamlit, Apache Superset,  HTML, ...          |
+| Pipelines, Orchestration and Deployment  |    Pyspark, Apache NiFi, Apache Airflow            |
+| Scraping                                 | API's, ...                               |
+| Cloud                                    | GCP, ...                               |
+
+
+
+<br> <br/>
+
+
 ---
 
 ## <span style="color:grey"> __Current Training/Learning Focus:__ </span>
----
-
-* Coursera Certification: <span style="color:"> <font size="12"> __Google Data Analytics Professional Certificate__ </font> </span>, (Ongoing) .
 
 
 
----
+
+* Coursera Certification:
+  - __Google Data Analytics Professional Certificate__ (Ongoing) 
+
+<br><br/>
+
 ---
 
 ## <span style="color:grey"> __Certificates, Seminars, Workshops__ </span>
 
----
 
 ### <span style="color:grey"> __Completed__ </span>
+
 ---
 
+* __DataTrain/UBremen Research Alliance__:
+  - __Operator Track: Data Scientist__
 
-* Coursera Certification: <span style="color:green"> <font size="15">  <u> __DevOps, Cloud, and Agile Foundations Specialization (IBM)__ </u> </font> </span> .
+  ```
+  A cross-discipline training program in “Data Train–Training in Research Data Management and
+  Data Science” for doctoral researchers from member institutions of the cooperation network
+  “U Bremen Research Alliance” teaches competencies in data literacy, research data management
+  and data science. The program is associated with consortia of the German National Research Data
+  Infrastructure (NFDI) initiative.
+  
+  In the Operator Track Data Scientist methods from mathematics, statistics, artificial intelligence
+  and computer science for data analysis and further data science competencies are conveyed.
+  
+  #IndustrialMathematics # DataManagement #Research #Datascience #DataAnalysis #ETL #Python #Pytorch
+  #DeepLearning #MachineLearning #WeightsandBiases #Optimisation #OptimalControl #ParameterEstimation
+  #ImageProcessing #ComputerVision #ModelInterpretability #DataEthics
+  ```
+
+  - [A preview of certificate]([https://drive.google.com/file/d/1TXH7kUI_xIJmN2rAJpwvqYN1Rf7Uug0R/view?usp=sharing](https://github.com/ghraciella/Skill-Acquisition-Certificates-Training-and-Workshop/blob/main/Certificates/others/Eze_DataTrack_completion_certificate.pdf))
+
+  <br> 
+
+
+* __Coursera Certification__:
+  - __DevOps, Cloud, and Agile Foundations Specialization (IBM)__
 
   ```
   As an actively curious and continuous learner, I decided to take a foundational course on DevOps,
@@ -34,36 +83,30 @@
   #AgileSoftwareDevelopment #AgileMindset #Devops  #Zenhub #Scrum #CICD #CloudComputing
   ```
 
-* Udemy Certification: Learn Basic to Advance JIRA for Testers/QA/Test Manager-2022.
 
-* Forage Virtual Internship: Goldman Sachs Excel Skills for Business Virtual Experience Program
+* __Others__
+
+  * Udemy Certification: Learn Basic to Advance JIRA for Testers/QA/Test Manager-2022.
   
-* Forage Virtual Internship Certification: Standard Bank Data Science Virtual Experience Internship.
+  * Forage Virtual Internship: Goldman Sachs Excel Skills for Business Virtual Experience Program
+    
+  * Forage Virtual Internship Certification: Standard Bank Data Science Virtual Experience Internship.
+    
+  * Forage Virtual Internship Certification: Accenture Data Analytics and Visualization Virtual Experience.
   
-* Forage Virtual Internship Certification: Accenture Data Analytics and Visualization Virtual Experience.
+  * Coursera Certification: Mathematics for Machine Learning: Linear Algebra.
+  
+  * Coursera Certification: Bayesian Statistics: From Concept to Data Analysis(with Honors).
+  
+  * Coursera Certification: Machine Learning: Regression.
+  
+  * Coursera Certification: Neural Networks and Deep Learning. 
+  
+  * Coursera Certification: Machine Learning with Python.
 
-* DataTrain/UBremen Research Alliance: Operator Track: Data Scientist
+<br>
 
-  - A preview of certificate [Data-Track-Scientist-Data-Practitioner-Python-Developer](https://drive.google.com/file/d/1TXH7kUI_xIJmN2rAJpwvqYN1Rf7Uug0R/view?usp=sharing)
-
-
-  <!---
-
-  -  <img src = "https://drive.google.com/drive/u/0/folders/1-zWosJKO8nRxlT09ngMf_6L3Zfgsz2aU" />
-
-  --->
-
-* Coursera Certification: Mathematics for Machine Learning: Linear Algebra.
-
-* Coursera Certification: Bayesian Statistics: From Concept to Data Analysis(with Honors).
-
-* Coursera Certification: Machine Learning: Regression.
-
-* Coursera Certification: Neural Networks and Deep Learning. 
-
-* Coursera Certification: Machine Learning with Python.
-
-* Course projects and Seminars by me:
+* __Course projects and Seminars__:
 
   - Final Project : Applications of Neural Network Models in Kaggle Competition: Malaria Dataset and Kvasir Endoscopic Images dataset, Ivan Franko National University of Lviv, Ukraine.
 
@@ -75,10 +118,9 @@
 
 
 ---
----
 
 ## <span style="color:grey"> __Learned Skills__ </span>
----
+
 
 * <span style="color:grey"> __Fields:__ </span>
   - Applied Mathematics, 
@@ -110,20 +152,7 @@
 
 <p>
 
-* <span style="color:grey"> __Tools, Languages, Libraries:__
-  - Python, 
-  - SQL - PostgreSQL,
-  - Git, Github
-  - Jupyter Lab - Jupyter Notebook(Ipython), 
-  - Google Tools (Sheets, Slides, Forms)
-  - Microsoft Tools (Excel, Word, Powerpoint and Power BI), 
-  - Zenhub - Jira - Trello,
-  - Pandas - Numpy - Matplotlib, OpenCV
-  - Pytorch - Pytorch Lightning, OpenCV, Tensorflow Keras
-  
 
-
-<p>
 
 
 
