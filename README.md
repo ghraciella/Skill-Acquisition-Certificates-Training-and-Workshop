@@ -6,19 +6,19 @@
 ## <span style="color:grey"> __Tech Stack : Tools, Languages, Libraries__
 
 |                      Skill               |                         Tech Stack                                                    | 
-|:----------------------------------------:|:-------------------------------------------------------------------------------------:|
-| Programming                              | Python, Pandas, Numpy,  Scikit-Learn, Anaconda, C++, Pytorch, Pytorch Lightning, OpenCV, Tensorflow, Keras ...            |
-| Visualization, Dashboards & Reporting    | Pandas, Matplotlib, Seaborn, Plotly,  Power BI, Tableau , Excel, ...        |
-| Collection, Presentation & Reporting     | Google Forms,   Google Sheets, Google Slides, ...        |
-| Databases                                | PostgreSQL, Sqlalchemy, Dbeaver , BigQuery           |
-| Version Control                          | Git, Github, Gitlab,            |
-| Organization                             | Kanban Board, Trello, Jira, Zenhub            |
-| OS - Shell                               | Linux, Unix, Windows                                           |
-| Editors (IDE)                            | VSCode, Visual Studio,  Jupyter                       |
-| Dashboards & Web Dev                     | Streamlit, Apache Superset,  HTML, ...          |
-| Pipelines, Orchestration and Deployment  |    Pyspark, Apache NiFi, Apache Airflow            |
-| Scraping                                 | API's, ...                               |
-| Cloud                                    | GCP, ...                               |
+|:---------------------------------------- |:------------------------------------------------------------------------------------- |
+| Programming                              | Python, Pandas, Numpy,  Scikit-Learn, C++  <br><br> Pytorch, Pytorch Lightning, OpenCV, Tensorflow, Keras        |
+| Visualization, Dashboards & Reporting    | Pandas, Matplotlib, Seaborn, Plotly  <br><br> Power BI, Tableau    <br><br> Excel/Google Sheet Charts, Google Slides, Canva |
+| Data and Database Management             | PostgreSQL, SQLAlchemy, Dbeaver , Pipelines, ETL |
+| Version Control                          | Git, Github, Gitlab |
+| Ingestion, Processing and Orchestration  | Pyspark (beginner) , Apache NiFi (beginner) , Apache Airflow (beginner) |
+| Containerization (beginner)              | Docker (beginner) , Kubernetes (beginner)          |
+| Organization                             | Kanban Board, Trello, Jira, Zenhub  |
+| OS - Shell                               | Linux, Unix, Windows  |
+| Editors (IDE)                            | VSCode, Visual Studio,  Jupyter |
+| Dashboards & Web Dev (beginner)          | Streamlit (beginner), HTML (beginner), CSS (beginner), Flask (beginner) |
+| Scraping                                 | APIs, ...  |
+| Cloud (beginner)                         | IBM Cloud (beginner), ...  |
 
 
 
